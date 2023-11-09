@@ -1,1 +1,1 @@
-# hexlet-js
+'Проект на Hexlet'
